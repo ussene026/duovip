@@ -1,2 +1,2 @@
-# duovip
-Espalhe a sua liberdade.
+# DUOVIP - O Seu conteúdo VIP
+- Espalhe a sua liberdade.
